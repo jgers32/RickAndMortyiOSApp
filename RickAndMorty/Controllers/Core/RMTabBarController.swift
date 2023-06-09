@@ -40,7 +40,7 @@ final class RMTabBarController: UITabBarController {
         }
         
         nav1.tabBarItem = UITabBarItem(title: "Characters",
-                                       image: UIImage(systemName: "person"),
+                                       image: UIImage(systemName: "person.3.sequence"),
                                        tag: 1)
         nav2.tabBarItem = UITabBarItem(title: "Locations",
                                        image: UIImage(systemName: "globe"),
@@ -49,7 +49,7 @@ final class RMTabBarController: UITabBarController {
                                        image: UIImage(systemName: "tv"),
                                        tag: 3)
         nav4.tabBarItem = UITabBarItem(title: "Settings",
-                                       image: UIImage(systemName: "gear"),
+                                       image: UIImage(systemName: "gearshape"),
                                        tag: 4)
         
 
